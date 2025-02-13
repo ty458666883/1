@@ -12,7 +12,8 @@
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,0emm.com
-DOMAIN-SUFFIX,r86m.com 
+DOMAIN-SUFFIX,r86m.com
+DOMAIN-SUFFIX:level-plus.net
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,sehuatang.com
