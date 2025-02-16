@@ -11,6 +11,7 @@
 # TOTAL: 725
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX:javbus.sbs
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,r86m.com
 DOMAIN-SUFFIX:level-plus.net
