@@ -60,6 +60,41 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
 # GFW list
+DOMAIN-SUFFIX:javbus.sbs
+DOMAIN-SUFFIX,r86m.com
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,jav.place
+DOMAIN-SUFFIX,hohoj.tv
+DOMAIN-SUFFIX,javmulu.net
+DOMAIN-SUFFIX,avmoo.online
+DOMAIN-SUFFIX,avmoo.com
+DOMAIN-SUFFIX,n9x.top
+DOMAIN-SUFFIX,jav.place
+DOMAIN-SUFFIX,xojav.tv
+DOMAIN-SUFFIX,javbooks.com
+DOMAIN-SUFFIX:north-plus.net
+DOMAIN-SUFFIX:level-plus.net
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-SUFFIX,sehuatang.com
+DOMAIN-SUFFIX:soul-plus.net
+DOMAIN-SUFFIX:south-plus.net
+DOMAIN-SUFFIX:white-plus.net
+DOMAIN-SUFFIX:level-plus.net
+DOMAIN-SUFFIX:summer-plus.net
+DOMAIN-SUFFIX:spring-plus.net
+DOMAIN-SUFFIX:snow-plus.net
+DOMAIN-SUFFIX:east-plus.net
+DOMAIN-SUFFIX:blue-plus.net
+DOMAIN-SUFFIX:fi11.com
+DOMAIN-SUFFIX:fi11.cn
+DOMAIN-SUFFIX:Fi11.tv
+DOMAIN-SUFFIX:Fi11.live
+DOMAIN-SUFFIX:fi11av.com
+DOMAIN-SUFFIX:north-plus.net
+DOMAIN-SUFFIX:asmrgay.com
+DOMAIN-SUFFIX:hsex.men
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -246,7 +281,7 @@ DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afr.com
 DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agnesb.fr
-DOMAIN-SUFFIX,agoogleaday.com
+DOMAIN-SUFFIX,agoogle1 天之前.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
