@@ -1,5 +1,5 @@
-# 代理列表
 
+# 代理列表
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
@@ -61,6 +61,18 @@ DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-SUFFIX:javbus.sbs
+DOMAIN-SUFFIX,avtoday.io
+DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,u3c3.com
+DOMAIN-SUFFIX,u9a9.com
+DOMAIN-SUFFIX,btsow.motorcycles
+DOMAIN-SUFFIX,sukebei.nyaa.si
+DOMAIN-SUFFIX,avfan.com
+DOMAIN-SUFFIX,tik.porn
+DOMAIN-SUFFIX,xfree.com
+DOMAIN-SUFFIX,xxxtik.com
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,r86m.com
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,missav.ai
