@@ -61,6 +61,8 @@ DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-SUFFIX,airavtv4.net
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,btsow.top
 DOMAIN-SUFFIX,mm18news.com
 DOMAIN-SUFFIX,mm18va.com
 DOMAIN-SUFFIX,mm18vb.com
