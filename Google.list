@@ -10,8 +10,6 @@
 # PROCESS-NAME: 6
 # TOTAL: 725
 DOMAIN,voice.telephony.goog
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,javdb457.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,1ucrs.com
