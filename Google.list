@@ -9,6 +9,9 @@
 # IP-CIDR6: 1
 # PROCESS-NAME: 6
 # TOTAL: 725
+DOMAIN-SUFFIX,smart.pendy.dpdns.org
+DOMAIN-SUFFIX,sport.pendy.dpdns.org
+DOMAIN-SUFFIX,docker.livednow.dpdns.org
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,greasyfork.org
