@@ -61,6 +61,7 @@ DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-KEYWORD,javdb
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-KEYWORD,avfan
 DOMAIN-SUFFIX,javdb573
 DOMAIN-SUFFIX,javdb574
